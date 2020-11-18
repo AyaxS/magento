@@ -1,4 +1,4 @@
-# magento 2 ver. 2.3.5-p1
+# magento 2 ver. 2.3.5
 
 Magento 2 para el desarrollo de Módulos backend y Bloques frontend. 
 
